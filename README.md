@@ -1,4 +1,4 @@
-# data-from-Peri-L-Cell-report-2014
+# data-from-Perié-L-Cell-report-2014
 Data used in the paper Perié L, Cell report 2014 doi: 10.1016/j.celrep.2014.01.016.
 
 The data are initially from the paper Naik S, Nature 2013 doi: 10.1038/nature12013
